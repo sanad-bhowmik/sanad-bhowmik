@@ -20,7 +20,7 @@ Skills: REACT / JS / HTML / CSS
 
 ([![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sanad-bhowmik)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/sanad-bhowmik&show_icons=true)  
 
