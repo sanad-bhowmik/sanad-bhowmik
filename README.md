@@ -6,7 +6,10 @@ I'm Sanad Bhowmik from Bangladesh, and I do content Design and Development. I re
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Web Development. 
+- 🌱 I’m currently learning React, Django and JavaScript 
+- 👯 I’m looking to collaborate on GitHub. 
+- 📫 How to reach me: Mail/Message me 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanad-bhowmik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sanad-bhowmik-366b20199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sonod.bhoumik/about)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
 
