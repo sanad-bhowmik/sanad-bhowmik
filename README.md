@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sanad Bhowmik
 #### Design and Development.
-![Design and Development.](https://scontent.fdac129-1.fna.fbcdn.net/v/t39.30808-6/277222664_1896733640714747_6076729405260170031_n.jpg?stp=c96.0.395.395a_dst-jpg_p526x395&_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeE6tR2nPq2DmjPDW1eqzMPoEAKSq-A31pwQApKr4DfWnE7wKbc2stULCGsXmdCZ4oV_ggCs40oiZ5N6GgVBIYdR&_nc_ohc=jrIhhmf2dd0AX89HUDL&tn=ajHgXv64EcMkqneS&_nc_ht=scontent.fdac129-1.fna&oh=00_AT9w1vuqek5ulLi19O3aub7HAAry3bZh7FcevkslRnzcvQ&oe=6242EB1A)
+![Design and Development.](https://github.com/sanad-bhowmik/sanad-bhowmik/blob/main/Screenshot%20(92).png)
 
 I'm Sanad Bhowmik from Bangladesh, and I do content Design and Development. I really enjoy learning languages and framework like React and Django. I also enjoy wireframing and design in general.
 
