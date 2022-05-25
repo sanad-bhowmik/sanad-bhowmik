@@ -4,7 +4,7 @@
 
 I'm Sanad Bhowmik from Bangladesh, and I do content Design and Development. I really enjoy learning languages and framework like React and Django. I also enjoy wireframing and design in general.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS/Bootstarp / ms office
 
 - 🔭 I’m currently working on Web Development. 
 - 🌱 I’m currently learning React, Django and JavaScript 
