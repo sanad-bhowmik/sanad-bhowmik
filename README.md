@@ -1,5 +1,9 @@
 ### Hi there 👋, I am Sanad Bhowmik
 #### Design and Development.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ![Design and Development.](https://github.com/sanad-bhowmik/sanad-bhowmik/blob/main/Hello%20There.png)
 
 I'm Sanad Bhowmik from Bangladesh, and I do content Design and Development. I really enjoy learning languages and framework like React and Django. I also enjoy wireframing and design in general.
