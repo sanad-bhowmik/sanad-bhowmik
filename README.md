@@ -1,14 +1,13 @@
-### Hi there 👋, BIplob Ghosh
+### Hi there 😎 Sanad Bhowmik.
 #### Always I am ready to do somthing exceptional.
 
 <img src="gamer.gif"/>
-#### Design and Development.
 
-<img src='4ae02819df265bcb867c5040dd8275e4.gif' alt='github' height=''>
+
 ![Design and Development.]
 
 I'm Sanad Bhowmik from Bangladesh, and I do content Design and Development. I really enjoy learning languages and framework like React and Django. I also enjoy wireframing and design in general.
-
+<img src='4ae02819df265bcb867c5040dd8275e4.gif' alt='github' height=''>
 Skills: REACT / JS / HTML / CSS/Bootstarp / ms office
 
 - 🔭 I’m currently working on Web Development. 
