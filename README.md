@@ -2,7 +2,7 @@
 <img src="![image](https://user-images.githubusercontent.com/91551201/192105464-14dd4730-2798-4e89-888b-ca60792a87fa.png)"/>
 #### Design and Development.
 
-<img src='[https://miro.medium.com/max/828/1*-zO5GC_wdGUDuOb6R-IelA.jpeg](https://miro.medium.com/max/828/1*-zO5GC_wdGUDuOb6R-IelA.jpeg)' alt='github' height=''>
+<img src='Beige Brown Memories Your Story.gif' alt='github' height=''>
 ![Design and Development.]
 
 I'm Sanad Bhowmik from Bangladesh, and I do content Design and Development. I really enjoy learning languages and framework like React and Django. I also enjoy wireframing and design in general.
