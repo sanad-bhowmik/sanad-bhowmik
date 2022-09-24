@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/828/1*-zO5GC_wdGUDuOb6R-IelA.jpeg/>
-</p>
+
 
 #### Design and Development.
 
-<img src='https://miro.medium.com/max/828/1*-zO5GC_wdGUDuOb6R-IelA.jpeg' alt='github' height=''>
+<img src='[https://miro.medium.com/max/828/1*-zO5GC_wdGUDuOb6R-IelA.jpeg](https://miro.medium.com/max/828/1*-zO5GC_wdGUDuOb6R-IelA.jpeg)' alt='github' height=''>
 ![Design and Development.]
 
 I'm Sanad Bhowmik from Bangladesh, and I do content Design and Development. I really enjoy learning languages and framework like React and Django. I also enjoy wireframing and design in general.
