@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!I'm Sanad &animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="![image](https://user-images.githubusercontent.com/91551201/192105332-ed334d9f-1cdc-4c8e-80d8-fcb0c9566101.png)/>
 </p>
 
 #### Design and Development.
