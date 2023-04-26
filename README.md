@@ -1,4 +1,4 @@
-![logo](https://github.com/sanad-bhowmik/sanad-bhowmik/blob/main/Technology%20Banner.gif)
+![logo](https://github.com/sanad-bhowmik/sanad-bhowmik/blob/main/tinywow_Purple%20Modern%20Digital%20Marketing%20Banner_21154684.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Sanad-Bhowmik</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 <h2 align="center">Building full-stack web applications with MERN is my passion, and I'm always looking for new challenges to tackle.</h2>
