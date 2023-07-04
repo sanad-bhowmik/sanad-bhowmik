@@ -1,27 +1,78 @@
 ![logo](bg.gif)
-<h1 align="center">Hi 👋, I'm Sanad-Bhowmik</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
-<h2 align="center">Building full-stack web applications with MERN is my passion, and I'm always looking for new challenges to tackle.</h2>
+Hey! I am  [Sanad Bhowmik](https://www.linkedin.com/in/sanad-bhowmik-366b20199/). I have completed my undergraduate from Daffodil International University, Department of Computer Science and Engineering. I am a passionate 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. I already finished some attractive functionality projects. 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+I am skilled in 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁,𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬𝐉𝐬, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩,
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanad-bhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="sanad-bhowmik" /> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanad-bhowmik-366b20199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanad-bhowmik-366b20199/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sanadbhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sanadbhowmik" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sonod.bhoumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sonod.bhoumik" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sanadbhowmik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sanadbhowmik/" height="30" width="40" /></a>
+- 🔭 I’m currently working on ReactJS 
+🌱: I'm currently learning NextJS 
+- 👯 I’m looking to collaborate on the Web application.
+- 🤔 I’m looking for help with Resource 
+💬: Ask me about MERN Stack Development
+- 📫 How to reach me: sanadbhowmik93@gmail.com 
+- ⚡ Fun fact: When the moon is directly overhead, you will weigh slightly less
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/biplob2358/count.svg" />
+</p>
+<br>
+ <p align="center">Contact Me</P>
+<p align="center">
+<a href="https://www.linkedin.com/in/sanad-bhowmik-366b20199/"><img alt="LinkedIn" src="https://img.shields.io/badge/Sanad Bhwomik-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/sonod.bhoumik"><img alt="Facebook" src="https://img.shields.io/badge/Sanad Bhwomik-facebook-blue?style=flat&logo=facebook"></a>
+<a href="mailto:sanadbhowmik93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sanadbhowmik93@gmail.com-orange?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/sanadbhowmik/"><img alt="Instagram" src="https://img.shields.io/badge/Sanad Bhwomik-purple?style=flat&logo=instagram"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanad-bhowmik&show_icons=true&locale=en&layout=compact" alt="sanad-bhowmik" /></p>
+<h3 align="center">Languages & Frameworks:</h3>
+<div align="center">
+ <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/> 
+ <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/> 
+ <img src="https://cdn.iconscout.com/icon/free/png-48/bootstrap-7-1175254.png"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.svg.png"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/48px-React-icon.svg.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+  <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="48"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/mongodb_plain_wordmark_logo_icon_146423.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/firebase_logo_icon_171157.png"/> 
+  <img src="https://karmanivero.us/assets/images/logo-vercel.png" height="48"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/java_original_logo_icon_146458.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/112/PNG/48/python_18894.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/c_original_logo_icon_146611.png"/>
+   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/java_original_logo_icon_146458.png"/>
+</div>
+<h3 align="center">Tools </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanad-bhowmik&show_icons=true&locale=en" alt="sanad-bhowmik" /></p>
+<div align="center">
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/visualstudiocode_93981.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/eclipse_94656.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/2667/PNG/48/jupyter_app_icon_161280.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/pycharm_93936.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/673/PNG/48/github_icon-icons.com_60477.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/48/git_93585.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/1243/PNG/48/adobephotoshopicon_84144.png"/>
+  <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" height="48"/>
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/48/figma_logo_icon_147289.png"/> 
+   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/48/android_studio_macos_bigsur_icon_189484.png"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_netlify_icon_130354.png"/>
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanad-bhowmik&" alt="sanad-bhowmik" /></p>
+</div>
+
+<h3 align="center">Badges</h3>
+<div align="center">
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+</div>
+<br>
+<h2 align="center"> Stats</h2>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanad-bhowmik&show_icons=true&locale=en" alt="sanad-bhowmik" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplob2358&theme=radical&show_icons=true" alt="sanad-bhowmik"/></p>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
