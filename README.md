@@ -7,17 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanad-bhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="sanad-bhowmik" /> </p>
 
-- 🌱 I’m currently learning **MongoDB and Firebase**
 
-- 👯 I’m looking to collaborate on **DIU NLPlab**
-
-- 👨‍💻 All of my projects are available at [https://sanad-bhowmik.github.io/sanad-portfolio/](https://sanad-bhowmik.github.io/sanad-portfolio/)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **sanadbhowmik93@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1D7_tAcZwvKDf_2EsPtzlr6VkHAUtck0F/edit?usp=sharing&ouid=104255708586860788412&rtpof=true&sd=true](https://docs.google.com/document/d/1D7_tAcZwvKDf_2EsPtzlr6VkHAUtck0F/edit?usp=sharing&ouid=104255708586860788412&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
