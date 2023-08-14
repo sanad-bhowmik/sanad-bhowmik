@@ -3,8 +3,8 @@ Hey! I am <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" 
 
 I am skilled in 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁,𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬𝐉𝐬, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩,
 
-- 🔭 I’m currently working on ReactJS 
-🌱: I'm currently learning NextJS 
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" height="20">  I’m currently working on ReactJS 
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" height="20">: I'm currently learning NextJS 
 - 👯 I’m looking to collaborate on the Web application.
 - 🤔 I’m looking for help with Resource 
 💬: Ask me about MERN Stack Development
