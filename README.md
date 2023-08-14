@@ -1,5 +1,5 @@
 ![logo](bg.gif)
-Hey! I am  [Sanad Bhowmik](https://www.linkedin.com/in/sanad-bhowmik-366b20199/). I have completed my undergraduate from Daffodil International University, Department of Computer Science and Engineering. I am a passionate 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. I already finished some attractive functionality projects. 
+Hey! I am <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [Sanad Bhowmik](https://www.linkedin.com/in/sanad-bhowmik-366b20199/). I have completed my undergraduate from Daffodil International University, Department of Computer Science and Engineering. I am a passionate 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. I already finished some attractive functionality projects. 
 
 I am skilled in 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁,𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬𝐉𝐬, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩,
 
