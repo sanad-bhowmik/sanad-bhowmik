@@ -1,4 +1,4 @@
-![logo](bg.gif)
+![logo](tec.gif)
 Hey! I am [Sanad Bhowmik](https://www.linkedin.com/in/sanad-bhowmik-366b20199/), a <b>Software Engineer</b> from Bangladesh, super into Open Source, and love managing communities. 
 
 I am skilled in 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁,𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬𝐉𝐬, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, <b>Laravel,</b> <b>PHP</b>.
